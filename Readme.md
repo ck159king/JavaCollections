@@ -8,3 +8,5 @@ It are some data types:
 - Map
 - and many more
 
+## Arrays
+Arrays is a inmutable data type.It can't be changed dynamically
