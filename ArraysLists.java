@@ -1,4 +1,5 @@
-
+//This is a comment 
+// hello rishi bhaiya 
 package com.JavaCollections;
 
 import java.util.*;
